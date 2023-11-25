@@ -11,6 +11,8 @@ BIG ASSIGNMENTS DATABASE SUBJECT IN UET-VNU
 # How to run ?
 - definitely have intelliJ pro (to automatically add libraries)
 
+-create Schema: hotel_spring_management at mySQL
+
 - go to File-> Project Structure -> Modules -> Admin -> src (at mark as) -> Mark as: Souces
 
 - go to File-> Project Structure -> Modules -> Customer-> src (at mark as) -> Mark as: Souces
